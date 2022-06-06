@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">FORMPELIS</string>
+    <string name="rbSerie">SERIE</string>
+    <string name="rbFilm">PELICULA</string>
+    <string name="ckSciFi">SciFi</string>
+    <string name="ckHorror">Terror</string>
+    <string name="ckThriller">Thriller</string>
+    <string name="ckChildren">Infantil</string>
+    <string name="ckFantasy">Fantasía</string>
+    <string name="ckHumour">Humor</string>
+    <string name="ckAnimation">Animación</string>
+    <string name="ckDrama">Drama</string>
+    <string name="ckSpanish">Española</string>
+    <string name="send">ENVIAR</string>
+    <string name="FilmCover">FilmCover</string>
+    <string name="head">TÍTULO</string>
+    <string name="addTitle">Título</string>
+    <string name="addYear">AÑO</string>
+    <string name="back">Volver</string>
 </resources>
